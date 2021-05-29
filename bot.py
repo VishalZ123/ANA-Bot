@@ -48,4 +48,4 @@ async def whobf(ctx):
 async def hbd(ctx,*,person):
     await ctx.send("Happy Birthday " + person +'. :birthday::birthday::birthday::partying_face::partying_face:')
 
-client.run("")
+client.run("") #insert server token here
